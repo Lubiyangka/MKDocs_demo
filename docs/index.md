@@ -1,17 +1,12 @@
 # 个人简历 
 - 📧 {your_student_id}@stu.hit.edu.cn 
-- 💻 [github.com/Lubiyangka](https://www.github.com/Lubiyangka)
+- 💻 [github.com/{your_github_username}](https://www.github.com/Lubiyangka)
 
 ## 🎓 教育背景
 
-### 哈尔滨工业大学 ｜ 2022 -- 2026
+### 哈尔滨工业大学 ｜ 202x -- 至今
 
 *本科生* · 软件工程
-- 综测排名：前 10%
-
-### 哈尔滨工业大学 ｜ 2026 -- 至今
-
-*在读研究生* · 软件工程
 
 ## 📑 内容导航
 
